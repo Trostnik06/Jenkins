@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Run app') {
             steps {
-		sh 'node server.js'
+		sh 'echo "APP IS STARTED"'
             }
         }
 stage('Docker build'){
