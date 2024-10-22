@@ -19,3 +19,4 @@ steps {
 	sh 'docker build -t "my-new-app" .'
 }
 }
+}
