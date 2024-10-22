@@ -9,13 +9,11 @@ pipeline {
                 sh 'cat hello.txt'
             }
         }
-    }
-stages {
         stage('Run app') {
             steps {
 		sh 'node.js'
             }
         }
-    }
 
+}
 }
