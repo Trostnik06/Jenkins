@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "testjen",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trostnik06/Jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trostnik06/Jenkins/issues"
+  },
+  "homepage": "https://github.com/Trostnik06/Jenkins#readme",
+  "description": ""
+}
